@@ -1,9 +1,8 @@
-### Chinar Sobti
+### Frontend/Full stack web Developer
 
-I am having 6+ years of software development experience in web and windows applications.I am always open to learn new technologies/frameworks.
+Hi! I am Chinar Sobti.I am having 6+ years of software development experience in web and windows applications.
+I am always open to learn new technologies/frameworks.
 
-Interested In: Frontend/Full stack web development
-  
 
 Technical Skills
 
