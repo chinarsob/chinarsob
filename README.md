@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi! I am Chinar Sobti.
 
+6+ years of software development experience in web and windows applications. Considerable experience in managing application development/release process . Particularly interested in web application development. Open to learn new frameworks/technologies.
 <!--
 **chinarsob/chinarsob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
