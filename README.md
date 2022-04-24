@@ -4,7 +4,7 @@ Hi! I am Chinar Sobti.I am having 6+ years of software development experience in
 I am always open to learn new technologies/frameworks.
 
 
-Technical Skills
+<b>Technical Skills</b>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
