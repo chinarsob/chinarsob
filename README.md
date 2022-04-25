@@ -16,13 +16,13 @@
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-<b>Projects</b>
+### Projects ###
 
-### HerHelp  (Codaisseur) ###
-"Encourage, lift and strengthen one another"
+#### HerHelp  (Codaisseur) ####
+"Encourage, lift and strengthen one another"</br>
 This website specifically targets organisations led by women where they can create events, user visiting website and can scan through and register for upcoming events. Website also have an option for donation where you can select location and donate your stuff like clothes/food etc.
 
-### Whats Near By  (Codaisseur) ###
-"Find your places with one tap"
+#### Whats Near By  (Codaisseur) ####
+"Find your places with one tap"</br>
 Website helps to find places closer to the area they are currently in.Even user can create blogs for the place they have visited.
 
