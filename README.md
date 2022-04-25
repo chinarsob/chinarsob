@@ -1,8 +1,8 @@
 ## Full stack web Developer ##
 
 <p>
-  Hi! I am Chinar Sobti.I am having 6+ years of software development experience in web and windows applications.
-  I am always open to learn new technologies/frameworks.
+  Hi! I am Chinar Sobti.I am from India 🇮🇳.I am having 6+ years of software development experience in web and windows applications.
+  Always open to learn new technologies/frameworks.
 </p>
 
 <b>Technical Skills</b>
@@ -16,7 +16,7 @@
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-### Projects ###
+### Projects📖 ###
 
 #### HerHelp  (Codaisseur) ####
 "Encourage, lift and strengthen one another"</br>
