@@ -19,7 +19,7 @@
 ### Projects📖 ###
 
 #### HerHelp  (Codaisseur) ####
-"Encourage, lift and strengthen one another"</br>
+"giving young women entrepreneurs more agency"</br>
 This website specifically targets organisations led by women where they can create events, user visiting website and can scan through and register for upcoming events. Website also have an option for donation where you can select location and donate your stuff like clothes/food etc.
 
 #### Whats Near By  (Codaisseur) ####
